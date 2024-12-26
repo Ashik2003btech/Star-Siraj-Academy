@@ -87,6 +87,7 @@ The registration page includes:
 </body>
 </html>
 
+### `register.html`  (Registration Page)
 
 <!DOCTYPE html>
 <html lang="en">
